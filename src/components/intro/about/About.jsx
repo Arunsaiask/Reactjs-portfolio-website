@@ -27,7 +27,7 @@ const About = () => {
             <img src={Award} alt="award" className="a-award-img" />
             <div className="a-award-texts">
               <h4 className="a-award-title">
-                International best design Award{" "}
+              best design Award{" "}
               </h4>
               <p className="a-award-desc">
                 {" "}
