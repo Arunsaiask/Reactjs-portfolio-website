@@ -1,5 +1,5 @@
 # Reactjs-portfolio-website
-A react based portfolio with full responsive on mobile 
+A react based portfolio  with full responsive on mobile(darkmode also)
 with gmail sending feature using Emailjs package
 
 ![Screenshot](screenshot.jpg)
