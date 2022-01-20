@@ -1,0 +1,4 @@
+[[redirects]]
+from = “/*”
+to = “publish/index.html”
+status = 200
